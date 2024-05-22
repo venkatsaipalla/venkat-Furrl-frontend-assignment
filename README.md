@@ -46,6 +46,5 @@ npm run dev
 ## Additional Information
 
 ![ScreenShot of Furrl](/screenshot/Screenshot_2024-05-23_010559.png)
-![Video of Project](/screenshot/screen-capture.webm)
 
 # venkat-Furrl-frontend-assignment
