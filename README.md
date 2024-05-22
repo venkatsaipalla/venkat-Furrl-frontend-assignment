@@ -4,7 +4,7 @@ This Project demonstrate the assignment completed for furrl's interview. Here is
 
 ## Live Demo 
 
-[Furrl](https://furrl-assignment-by-twinkal.vercel.app/)
+[Furrl](https://venkat-furrl-frontend-assignment.vercel.app/)
 
 ## Technology used
 
@@ -45,5 +45,5 @@ npm run dev
 
 ## Additional Information
 
-![ScreenShot of Furrl](/screenshot/FurrlScreenShot.png)
+![ScreenShot of Furrl](/screenshot/Screenshot_2024-05-23_010559.png)
 # venkat-Furrl-frontend-assignment
