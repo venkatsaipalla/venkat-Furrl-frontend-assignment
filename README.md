@@ -16,7 +16,7 @@ This Project demonstrate the assignment completed for furrl's interview. Here is
 ## How to install this project locally?
 
 ```bash
-git clone https://github.com/twinkalp10/furrl.git
+git clone https://github.com/venkatsaipalla/venkat-Furrl-frontend-assignment.git
 npm install
 npm run dev
 ```
