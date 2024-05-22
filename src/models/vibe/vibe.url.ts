@@ -5,12 +5,12 @@ export const getVibesData = async (pageNumber?: number): Promise<ListingProducts
   try {
     const { data } = await axios.post<ListingProductsResponse>(
       `https://api.furrl.in/api/v2/listing/getListingProducts`,
-      { input: { entity: "vibe", id: "#HomeHunts" } },
-      {
-        params: {
-          page: pageNumber || 1,
-        },
-      }
+      { input: { entity: "vibe", id: "#HomeHunts", page: pageNumber || 1, } },
+      // {
+      //   params: {
+      //     page: pageNumber || 1,
+      //   },
+      // }
     );
     return data;
   } catch (error) {
