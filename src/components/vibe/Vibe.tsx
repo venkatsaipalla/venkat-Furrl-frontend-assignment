@@ -41,22 +41,23 @@ const Vibes = () => {
         alt="banner image"
         className="w-full max-h-52"
       />
-      {/* <section className="m-2 rounded-lg p-1 font-light bg-gray-200 text-gray-800">
-        <div className="flex justify-between items-center px-10">
-          <div className="py-2.5 px-3 text-xs bg-white rounded-lg">
-            Products
-          </div>
-          <div className="py-2.5 px-3 text-xs rounded-lg">Collections</div>
+      <section className="m-2 rounded-lg p-1 font-light bg-gray-200 text-gray-800">
+        {/* <div className="flex justify-between items-center px-10"> */}
+        <div className="py-2.5 px-3 text-lg font-semibold bg-white rounded-lg">
+          Products
         </div>
-      </section> */}
+        {/* <div className="py-2.5 px-3 text-xs rounded-lg">Collections</div> */}
+        {/* </div> */}
+      </section>
 
       <section className="sticky top-10 z-50 bg-white py-0.5">
         <div className="m-2 flex flex-col gap-4">
           <p className="text-sm italic font-light text-gray-800 w-full">
+            Shop{"   "}
             <span className="text-xl1 italic font-bold text-gray-800">
-              Shop Products
-            </span>{" "}
-            {vibe?.totalStoredProductIdsCount} products
+              {vibe?.totalStoredProductIdsCount}
+            </span>{"   "}
+            products
           </p>
           <section className="w-full overflow-scroll product_list">
             <ul className="inline-flex gap-2">
