@@ -2,7 +2,7 @@
 
 This Project demonstrate the assignment completed for furrl's interview. Here is [link of assignment questionary](https://docs.google.com/document/d/10UarXEmRwRmouyHga0_QuZa5bJIdxgiPQpfbBOyOYtc/edit#heading=h.tmji0vc6irbk)
 
-## Live Demo 
+## Live Demo
 
 [Furrl](https://venkat-furrl-frontend-assignment.vercel.app/)
 
@@ -46,4 +46,6 @@ npm run dev
 ## Additional Information
 
 ![ScreenShot of Furrl](/screenshot/Screenshot_2024-05-23_010559.png)
+![Video of Project](/screenshot/screen-capture.webm)
+
 # venkat-Furrl-frontend-assignment
